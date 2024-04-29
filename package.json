@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_course",
+  "version": "1.0.0",
+  "description": "## [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nadjib-coder/nodejs_course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nadjib-coder/nodejs_course/issues"
+  },
+  "homepage": "https://github.com/Nadjib-coder/nodejs_course#readme"
+}
